@@ -33,3 +33,8 @@ for eachData in fullData.data:
     if range_int == 100:
         print(data_list)
         break    
+
+
+# you can get list data
+# each content sorted with comma .
+# can change list data to json format with dictionary using key value.
